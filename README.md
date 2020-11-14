@@ -1,4 +1,4 @@
-<h1><img src="https://media1.giphy.com/media/SUDr9512mOzZrAbMcv/giphy.gif" width="30"> About Me</h1>
+<h1><img src="https://66.media.tumblr.com/tumblr_m9wk2ozqr81rfjowdo1_500.gif" width="30"> About Me</h1>
 
 [![GitHub Karine](https://img.shields.io/github/followers/kszmr?label=follow&style=social)](https://github.com/kszmr)
 

@@ -14,3 +14,5 @@ I'm <b>Karine</b>. Front-end Developer (<i>HTML | CSS | JavaScript</i>) & UI/UX 
   <li>React <img src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/8575147831553750379-256.png" width="15"></li>
   <li>Vue <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" width="15"></li>
 </ul>
+
+<img src="https://media.giphy.com/media/111ebonMs90YLu/giphy.gif">

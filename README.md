@@ -1,6 +1,7 @@
 <h1><img src="https://66.media.tumblr.com/tumblr_m9wk2ozqr81rfjowdo1_500.gif" width="45">About Me</h1>
 
 [![GitHub Karine](https://img.shields.io/github/followers/kszmr?label=follow&style=social)](https://github.com/kszmr)
+[![Twitter Karine](https://img.shields.io/twitter/follow/kszmr?label=Follow&style=social)](https://https://twitter.com/kszmr)
 
 Hello World! :alien: <br>
 I'm <b>Karine</b>. Front-end Developer (<i>HTML | CSS | JavaScript</i>) & UI/UX enthusiast.

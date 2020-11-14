@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1><img src="https://data.whicdn.com/images/175239492/original.gif" width="40"> About Me</h1>
 
-<!--
-**kszmr/kszmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Karine](https://img.shields.io/github/followers/kszmr?label=follow&style=social)](https://github.com/kszmr)
 
-Here are some ideas to get you started:
+Hello World! :alien: <br>
+I'm <b>Karine</b>. Front-end Developer (<i>HTML | CSS | JavaScript</i>) & UI/UX enthusiast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn1.iconfinder.com/data/icons/pixel-art-essential/512/Search-512.png" width="15"> <b>Contact Me:</b> kszmr@hotmail.com
+  
+<h2><img src="https://i.gifer.com/origin/3f/3face8da2a6c3dcd27cb4a1aaa32c926_w200.gif" width="20">Currently Learning</h2>
+<ul>
+  <li>Angular <img src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/031/square_256/angular2.png" width="15"></li>
+  <li>React <img src="https://s3.us-east-2.amazonaws.com/upload-icon/uploads/icons/png/8575147831553750379-256.png" width="15"></li>
+  <li>Vue <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" width="15"></li>
+</ul>
